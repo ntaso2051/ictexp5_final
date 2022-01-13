@@ -1,4 +1,8 @@
 # IOT 制作実験
+### やったこと
+- https://walking-succession-falls.com/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%82%A4%E3%81%ABGUI%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B
+- https://qiita.com/kakinaguru_zo/items/eda129635816ad871e9d
+
 
 ### 案1：カメラでジェスチャー判定
 - Mediapipeのpythonパッケージを使う
